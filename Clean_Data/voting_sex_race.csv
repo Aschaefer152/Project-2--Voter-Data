@@ -1,0 +1,572 @@
+state,sex_race,total_citizen_population,percent_registered_citizen,percent_voted_citizen
+US,Male,"107,554",68.6,59.3
+US,Female,"116,505",72.0,63.3
+US,White alone,"177,865",71.7,62.9
+US,White non-Hispanic alone,"154,450",73.9,65.3
+US,Black alone,"28,808",69.4,59.4
+US,Asian alone,"10,283",56.3,49.0
+US,Hispanic (of any race),"26,662",57.3,47.6
+US,White alone or in combination,"181,268",71.5,62.7
+US,Black alone or in combination,"30,326",69.0,58.9
+US,Asian alone or in combination,"11,118",57.3,49.9
+ALABAMA,Total,"3,651",69.2,57.4
+ALABAMA,Male,"1,718",67.2,54.9
+ALABAMA,Female,"1,933",70.9,59.6
+ALABAMA,White alone,"2,604",68.0,56.2
+ALABAMA,White non-Hispanic alone,"2,526",69.0,57.0
+ALABAMA,Black alone,953,72.8,60.8
+ALABAMA,Asian alone,10,Nan,Nan
+ALABAMA,Hispanic (of any race),83,Nan,Nan
+ALABAMA,White alone or in combination,"2,644",68.1,56.3
+ALABAMA,Black alone or in combination,976,72.1,60.2
+ALABAMA,Asian alone or in combination,19,Nan,Nan
+ALASKA,Total,502,71.3,61.3
+ALASKA,Male,258,70.1,58.8
+ALASKA,Female,243,72.6,64.0
+ALASKA,White alone,340,76.8,68.9
+ALASKA,White non-Hispanic alone,329,76.7,68.7
+ALASKA,Black alone,17,Nan,Nan
+ALASKA,Asian alone,19,Nan,Nan
+ALASKA,Hispanic (of any race),23,Nan,Nan
+ALASKA,White alone or in combination,363,77.0,69.0
+ALASKA,Black alone or in combination,26,Nan,Nan
+ALASKA,Asian alone or in combination,24,Nan,Nan
+ARIZONA,Total,"4,585",68.6,60.4
+ARIZONA,Male,"2,256",65.8,56.5
+ARIZONA,Female,"2,329",71.3,64.2
+ARIZONA,White alone,"3,950",70.2,62.8
+ARIZONA,White non-Hispanic alone,"2,875",74.6,68.3
+ARIZONA,Black alone,237,69.8,50.9
+ARIZONA,Asian alone,108,63.3,51.6
+ARIZONA,Hispanic (of any race),"1,145",57.1,47.4
+ARIZONA,White alone or in combination,"4,048",69.5,62.2
+ARIZONA,Black alone or in combination,281,65.0,49.1
+ARIZONA,Asian alone or in combination,117,66.1,47.7
+ARKANSAS,Total,"2,116",68.8,58.7
+ARKANSAS,Male,"1,001",67.8,57.4
+ARKANSAS,Female,"1,115",69.7,59.8
+ARKANSAS,White alone,"1,749",68.4,59.0
+ARKANSAS,White non-Hispanic alone,"1,674",69.7,60.2
+ARKANSAS,Black alone,316,73.0,58.8
+ARKANSAS,Asian alone,16,Nan,Nan
+ARKANSAS,Hispanic (of any race),77,Nan,Nan
+ARKANSAS,White alone or in combination,"1,775",68.3,58.8
+ARKANSAS,Black alone or in combination,320,73.3,59.3
+ARKANSAS,Asian alone or in combination,16,Nan,Nan
+CALIFORNIA,Total,"24,890",64.7,57.9
+CALIFORNIA,Male,"12,131",63.2,56.3
+CALIFORNIA,Female,"12,759",66.1,59.4
+CALIFORNIA,White alone,"18,104",66.7,60.3
+CALIFORNIA,White non-Hispanic alone,"11,954",73.0,67.1
+CALIFORNIA,Black alone,"1,768",57.6,48.4
+CALIFORNIA,Asian alone,"3,585",58.0,51.9
+CALIFORNIA,Hispanic (of any race),"7,092",54.7,47.2
+CALIFORNIA,White alone or in combination,"18,781",67.0,60.5
+CALIFORNIA,Black alone or in combination,"2,007",57.9,49.3
+CALIFORNIA,Asian alone or in combination,"3,798",59.0,52.8
+COLORADO,Total,"3,895",74.3,69.5
+COLORADO,Male,"1,902",73.7,68.2
+COLORADO,Female,"1,994",74.8,70.7
+COLORADO,White alone,"3,517",75.7,70.9
+COLORADO,White non-Hispanic alone,"3,125",77.5,73.0
+COLORADO,Black alone,167,74.1,74.1
+COLORADO,Asian alone,104,37.0,33.4
+COLORADO,Hispanic (of any race),426,63.8,55.6
+COLORADO,White alone or in combination,"3,595",75.4,70.6
+COLORADO,Black alone or in combination,170,74.6,74.6
+COLORADO,Asian alone or in combination,122,42.2,36.1
+CONNECTICUT,Total,"2,483",71.0,63.9
+CONNECTICUT,Male,"1,182",67.5,60.7
+CONNECTICUT,Female,"1,301",74.2,66.7
+CONNECTICUT,White alone,"2,090",73.6,65.9
+CONNECTICUT,White non-Hispanic alone,"1,897",75.2,67.8
+CONNECTICUT,Black alone,266,59.2,53.5
+CONNECTICUT,Asian alone,83,Nan,Nan
+CONNECTICUT,Hispanic (of any race),278,54.4,47.2
+CONNECTICUT,White alone or in combination,"2,113",73.9,66.3
+CONNECTICUT,Black alone or in combination,293,63.0,57.9
+CONNECTICUT,Asian alone or in combination,88,Nan,Nan
+DELAWARE,Total,669,72.8,62.3
+DELAWARE,Male,306,70.4,59.7
+DELAWARE,Female,362,74.8,64.5
+DELAWARE,White alone,494,75.4,64.7
+DELAWARE,White non-Hispanic alone,464,77.6,66.3
+DELAWARE,Black alone,144,66.5,56.5
+DELAWARE,Asian alone,22,Nan,Nan
+DELAWARE,Hispanic (of any race),39,Nan,Nan
+DELAWARE,White alone or in combination,501,75.5,64.4
+DELAWARE,Black alone or in combination,150,66.8,55.5
+DELAWARE,Asian alone or in combination,22,Nan,Nan
+DISTRICT OF COLUMBIA,Total,512,82.1,74.3
+DISTRICT OF COLUMBIA,Male,237,80.4,71.0
+DISTRICT OF COLUMBIA,Female,275,83.5,77.2
+DISTRICT OF COLUMBIA,White alone,243,86.3,80.0
+DISTRICT OF COLUMBIA,White non-Hispanic alone,222,88.2,81.9
+DISTRICT OF COLUMBIA,Black alone,238,77.5,68.0
+DISTRICT OF COLUMBIA,Asian alone,18,Nan,Nan
+DISTRICT OF COLUMBIA,Hispanic (of any race),28,Nan,Nan
+DISTRICT OF COLUMBIA,White alone or in combination,253,86.6,80.5
+DISTRICT OF COLUMBIA,Black alone or in combination,247,77.7,68.4
+DISTRICT OF COLUMBIA,Asian alone or in combination,20,Nan,Nan
+FLORIDA,Total,"14,428",66.6,59.5
+FLORIDA,Male,"6,868",63.7,57.1
+FLORIDA,Female,"7,560",69.1,61.6
+FLORIDA,White alone,"11,793",69.0,61.7
+FLORIDA,White non-Hispanic alone,"9,066",70.9,63.8
+FLORIDA,Black alone,"2,083",55.2,50.5
+FLORIDA,Asian alone,381,50.3,40.4
+FLORIDA,Hispanic (of any race),"2,871",62.0,54.1
+FLORIDA,White alone or in combination,"11,899",69.0,61.7
+FLORIDA,Black alone or in combination,"2,135",55.4,50.4
+FLORIDA,Asian alone or in combination,424,50.1,40.0
+GEORGIA,Total,"7,048",69.4,60.2
+GEORGIA,Male,"3,317",67.4,57.5
+GEORGIA,Female,"3,731",71.2,62.7
+GEORGIA,White alone,"4,453",71.4,62.6
+GEORGIA,White non-Hispanic alone,"4,142",73.1,63.8
+GEORGIA,Black alone,"2,255",68.8,59.7
+GEORGIA,Asian alone,225,44.9,31.3
+GEORGIA,Hispanic (of any race),335,50.2,47.9
+GEORGIA,White alone or in combination,"4,526",71.2,62.2
+GEORGIA,Black alone or in combination,"2,294",68.8,59.3
+GEORGIA,Asian alone or in combination,235,45.1,30.0
+HAWAII,Total,974,54.4,47.3
+HAWAII,Male,476,52.3,45.2
+HAWAII,Female,498,56.5,49.3
+HAWAII,White alone,220,65.4,58.7
+HAWAII,White non-Hispanic alone,205,67.5,61.3
+HAWAII,Black alone,24,Nan,Nan
+HAWAII,Asian alone,417,49.3,43.6
+HAWAII,Hispanic (of any race),74,Nan,Nan
+HAWAII,White alone or in combination,361,63.2,54.6
+HAWAII,Black alone or in combination,30,Nan,Nan
+HAWAII,Asian alone or in combination,548,51.2,44.8
+IDAHO,Total,"1,150",68.7,62.1
+IDAHO,Male,571,67.5,60.6
+IDAHO,Female,579,69.8,63.5
+IDAHO,White alone,"1,095",69.1,62.8
+IDAHO,White non-Hispanic alone,994,71.5,65.1
+IDAHO,Black alone,5,Nan,Nan
+IDAHO,Asian alone,12,Nan,Nan
+IDAHO,Hispanic (of any race),114,48.0,42.9
+IDAHO,White alone or in combination,"1,118",68.9,62.4
+IDAHO,Black alone or in combination,7,Nan,Nan
+IDAHO,Asian alone or in combination,14,Nan,Nan
+ILLINOIS,Total,"8,970",74.3,63.8
+ILLINOIS,Male,"4,307",73.7,62.1
+ILLINOIS,Female,"4,663",74.9,65.3
+ILLINOIS,White alone,"7,100",75.9,65.3
+ILLINOIS,White non-Hispanic alone,"6,153",78.6,67.8
+ILLINOIS,Black alone,"1,321",70.6,58.7
+ILLINOIS,Asian alone,391,58.9,51.3
+ILLINOIS,Hispanic (of any race),"1,073",59.1,49.2
+ILLINOIS,White alone or in combination,"7,165",75.9,65.3
+ILLINOIS,Black alone or in combination,"1,353",71.2,59.7
+ILLINOIS,Asian alone or in combination,408,59.7,52.4
+INDIANA,Total,"4,795",68.8,58.3
+INDIANA,Male,"2,306",69.2,58.3
+INDIANA,Female,"2,490",68.4,58.3
+INDIANA,White alone,"4,191",69.1,58.9
+INDIANA,White non-Hispanic alone,"4,059",69.8,59.4
+INDIANA,Black alone,442,64.2,51.6
+INDIANA,Asian alone,77,Nan,Nan
+INDIANA,Hispanic (of any race),138,50.1,46.0
+INDIANA,White alone or in combination,"4,260",69.2,59.0
+INDIANA,Black alone or in combination,460,64.9,51.8
+INDIANA,Asian alone or in combination,97,Nan,Nan
+IOWA,Total,"2,292",72.3,63.4
+IOWA,Male,"1,111",70.2,60.6
+IOWA,Female,"1,181",74.2,66.1
+IOWA,White alone,"2,159",73.5,64.5
+IOWA,White non-Hispanic alone,"2,114",73.7,64.8
+IOWA,Black alone,65,Nan,Nan
+IOWA,Asian alone,30,Nan,Nan
+IOWA,Hispanic (of any race),51,Nan,Nan
+IOWA,White alone or in combination,"2,184",73.2,64.2
+IOWA,Black alone or in combination,76,Nan,Nan
+IOWA,Asian alone or in combination,32,Nan,Nan
+KANSAS,Total,"2,029",70.9,61.3
+KANSAS,Male,992,67.6,57.5
+KANSAS,Female,"1,036",74.0,64.9
+KANSAS,White alone,"1,798",72.7,63.9
+KANSAS,White non-Hispanic alone,"1,672",74.4,65.3
+KANSAS,Black alone,121,61.8,44.5
+KANSAS,Asian alone,31,Nan,Nan
+KANSAS,Hispanic (of any race),138,54.7,48.9
+KANSAS,White alone or in combination,"1,838",72.6,63.6
+KANSAS,Black alone or in combination,136,60.4,41.2
+KANSAS,Asian alone or in combination,36,Nan,Nan
+KENTUCKY,Total,"3,246",69.4,57.0
+KENTUCKY,Male,"1,550",66.8,55.5
+KENTUCKY,Female,"1,697",71.8,58.3
+KENTUCKY,White alone,"2,953",69.0,56.5
+KENTUCKY,White non-Hispanic alone,"2,881",69.3,56.7
+KENTUCKY,Black alone,231,81.2,69.1
+KENTUCKY,Asian alone,14,Nan,Nan
+KENTUCKY,Hispanic (of any race),79,Nan,Nan
+KENTUCKY,White alone or in combination,"2,991",68.7,56.1
+KENTUCKY,Black alone or in combination,262,80.0,66.9
+KENTUCKY,Asian alone or in combination,23,Nan,Nan
+LOUISIANA,Total,"3,353",73.0,61.6
+LOUISIANA,Male,"1,580",70.8,58.5
+LOUISIANA,Female,"1,773",74.8,64.4
+LOUISIANA,White alone,"2,193",74.4,62.4
+LOUISIANA,White non-Hispanic alone,"2,100",74.2,62.5
+LOUISIANA,Black alone,"1,054",71.6,61.3
+LOUISIANA,Asian alone,65,Nan,Nan
+LOUISIANA,Hispanic (of any race),121,81.5,67.9
+LOUISIANA,White alone or in combination,"2,216",74.6,62.5
+LOUISIANA,Black alone or in combination,"1,070",72.0,61.8
+LOUISIANA,Asian alone or in combination,67,Nan,Nan
+MAINE,Total,"1,038",80.0,72.7
+MAINE,Male,500,77.5,69.3
+MAINE,Female,537,82.3,75.8
+MAINE,White alone,988,80.3,72.9
+MAINE,White non-Hispanic alone,972,80.9,73.3
+MAINE,Black alone,10,Nan,Nan
+MAINE,Asian alone,8,Nan,Nan
+MAINE,Hispanic (of any race),16,Nan,Nan
+MAINE,White alone or in combination,"1,013",80.0,72.8
+MAINE,Black alone or in combination,14,Nan,Nan
+MAINE,Asian alone or in combination,9,Nan,Nan
+MARYLAND,Total,"4,158",74.9,65.8
+MARYLAND,Male,"1,963",74.1,63.8
+MARYLAND,Female,"2,194",75.6,67.6
+MARYLAND,White alone,"2,593",76.2,66.6
+MARYLAND,White non-Hispanic alone,"2,392",76.5,67.1
+MARYLAND,Black alone,"1,289",74.0,66.6
+MARYLAND,Asian alone,213,69.1,54.9
+MARYLAND,Hispanic (of any race),250,68.2,59.1
+MARYLAND,White alone or in combination,"2,629",76.2,66.6
+MARYLAND,Black alone or in combination,"1,324",74.3,66.8
+MARYLAND,Asian alone or in combination,213,69.1,54.9
+MASSACHUSETTS,Total,"4,967",73.7,66.7
+MASSACHUSETTS,Male,"2,382",74.2,67.1
+MASSACHUSETTS,Female,"2,585",73.2,66.4
+MASSACHUSETTS,White alone,"4,260",75.8,68.5
+MASSACHUSETTS,White non-Hispanic alone,"3,969",77.5,70.3
+MASSACHUSETTS,Black alone,368,72.4,65.8
+MASSACHUSETTS,Asian alone,238,53.8,50.8
+MASSACHUSETTS,Hispanic (of any race),397,50.1,44.6
+MASSACHUSETTS,White alone or in combination,"4,357",74.9,67.7
+MASSACHUSETTS,Black alone or in combination,431,65.9,60.3
+MASSACHUSETTS,Asian alone or in combination,254,52.4,49.5
+MICHIGAN,Total,"7,332",74.1,64.3
+MICHIGAN,Male,"3,473",73.1,61.9
+MICHIGAN,Female,"3,859",75.0,66.4
+MICHIGAN,White alone,"6,071",75.4,65.6
+MICHIGAN,White non-Hispanic alone,"5,890",76.4,66.5
+MICHIGAN,Black alone,"1,020",69.4,61.0
+MICHIGAN,Asian alone,108,58.3,54.2
+MICHIGAN,Hispanic (of any race),206,49.0,36.0
+MICHIGAN,White alone or in combination,"6,167",75.4,65.2
+MICHIGAN,Black alone or in combination,"1,080",69.6,59.4
+MICHIGAN,Asian alone or in combination,113,55.6,51.7
+MINNESOTA,Total,"3,985",76.7,68.7
+MINNESOTA,Male,"1,952",74.6,67.2
+MINNESOTA,Female,"2,033",78.6,70.2
+MINNESOTA,White alone,"3,506",77.7,70.1
+MINNESOTA,White non-Hispanic alone,"3,405",78.7,71.0
+MINNESOTA,Black alone,169,74.7,66.3
+MINNESOTA,Asian alone,124,63.7,51.6
+MINNESOTA,Hispanic (of any race),136,39.6,36.6
+MINNESOTA,White alone or in combination,"3,563",77.4,69.9
+MINNESOTA,Black alone or in combination,176,75.8,67.7
+MINNESOTA,Asian alone or in combination,148,65.7,55.6
+MISSISSIPPI,Total,"2,170",79.5,67.7
+MISSISSIPPI,Male,"1,010",77.2,65.0
+MISSISSIPPI,Female,"1,160",81.5,70.1
+MISSISSIPPI,White alone,"1,355",79.0,67.8
+MISSISSIPPI,White non-Hispanic alone,"1,339",78.8,67.7
+MISSISSIPPI,Black alone,777,81.4,69.1
+MISSISSIPPI,Asian alone,13,Nan,Nan
+MISSISSIPPI,Hispanic (of any race),23,Nan,Nan
+MISSISSIPPI,White alone or in combination,"1,371",78.9,67.3
+MISSISSIPPI,Black alone or in combination,786,81.3,69.2
+MISSISSIPPI,Asian alone or in combination,18,Nan,Nan
+MISSOURI,Total,"4,486",74.3,64.8
+MISSOURI,Male,"2,159",71.1,61.5
+MISSOURI,Female,"2,328",77.3,67.8
+MISSOURI,White alone,"3,860",74.8,65.5
+MISSOURI,White non-Hispanic alone,"3,779",75.0,65.8
+MISSOURI,Black alone,491,78.4,66.2
+MISSOURI,Asian alone,34,Nan,Nan
+MISSOURI,Hispanic (of any race),93,Nan,Nan
+MISSOURI,White alone or in combination,"3,919",73.9,64.8
+MISSOURI,Black alone or in combination,532,77.9,65.5
+MISSOURI,Asian alone or in combination,38,Nan,Nan
+MONTANA,Total,790,73.5,65.9
+MONTANA,Male,396,72.5,64.6
+MONTANA,Female,395,74.4,67.2
+MONTANA,White alone,735,73.8,67.0
+MONTANA,White non-Hispanic alone,718,74.1,67.3
+MONTANA,Black alone,3,Nan,Nan
+MONTANA,Asian alone,5,Nan,Nan
+MONTANA,Hispanic (of any race),19,Nan,Nan
+MONTANA,White alone or in combination,751,73.7,67.1
+MONTANA,Black alone or in combination,5,Nan,Nan
+MONTANA,Asian alone or in combination,7,Nan,Nan
+NEBRASKA,Total,"1,336",75.5,66.8
+NEBRASKA,Male,661,72.6,63.4
+NEBRASKA,Female,676,78.2,70.1
+NEBRASKA,White alone,"1,202",77.1,69.6
+NEBRASKA,White non-Hispanic alone,"1,138",77.5,70.3
+NEBRASKA,Black alone,52,Nan,Nan
+NEBRASKA,Asian alone,23,Nan,Nan
+NEBRASKA,Hispanic (of any race),65,Nan,Nan
+NEBRASKA,White alone or in combination,"1,228",76.3,68.7
+NEBRASKA,Black alone or in combination,58,Nan,Nan
+NEBRASKA,Asian alone or in combination,23,Nan,Nan
+NEVADA,Total,"1,975",69.4,60.5
+NEVADA,Male,974,68.0,58.5
+NEVADA,Female,"1,001",70.8,62.4
+NEVADA,White alone,"1,537",70.0,61.7
+NEVADA,White non-Hispanic alone,"1,236",71.1,63.2
+NEVADA,Black alone,169,72.3,65.1
+NEVADA,Asian alone,163,56.0,44.4
+NEVADA,Hispanic (of any race),346,67.7,56.6
+NEVADA,White alone or in combination,"1,581",70.2,61.8
+NEVADA,Black alone or in combination,191,74.7,67.1
+NEVADA,Asian alone or in combination,178,55.3,43.6
+NEW HAMPSHIRE,Total,"1,012",75.4,69.0
+NEW HAMPSHIRE,Male,494,72.7,66.2
+NEW HAMPSHIRE,Female,518,77.9,71.6
+NEW HAMPSHIRE,White alone,973,76.0,69.6
+NEW HAMPSHIRE,White non-Hispanic alone,964,76.1,69.7
+NEW HAMPSHIRE,Black alone,9,Nan,Nan
+NEW HAMPSHIRE,Asian alone,16,Nan,Nan
+NEW HAMPSHIRE,Hispanic (of any race),11,Nan,Nan
+NEW HAMPSHIRE,White alone or in combination,984,75.9,69.3
+NEW HAMPSHIRE,Black alone or in combination,13,Nan,Nan
+NEW HAMPSHIRE,Asian alone or in combination,17,Nan,Nan
+NEW JERSEY,Total,"5,958",69.9,61.5
+NEW JERSEY,Male,"2,825",67.6,59.1
+NEW JERSEY,Female,"3,132",72.0,63.7
+NEW JERSEY,White alone,"4,669",71.7,63.4
+NEW JERSEY,White non-Hispanic alone,"3,891",75.4,66.9
+NEW JERSEY,Black alone,814,67.5,57.6
+NEW JERSEY,Asian alone,399,55.2,52.9
+NEW JERSEY,Hispanic (of any race),913,53.2,43.2
+NEW JERSEY,White alone or in combination,"4,702",71.7,63.4
+NEW JERSEY,Black alone or in combination,824,67.2,56.9
+NEW JERSEY,Asian alone or in combination,422,56.4,54.2
+NEW MEXICO,Total,"1,396",65.6,54.8
+NEW MEXICO,Male,669,62.1,51.1
+NEW MEXICO,Female,727,68.8,58.2
+NEW MEXICO,White alone,"1,053",68.6,58.8
+NEW MEXICO,White non-Hispanic alone,543,77.3,69.2
+NEW MEXICO,Black alone,40,Nan,Nan
+NEW MEXICO,Asian alone,27,Nan,Nan
+NEW MEXICO,Hispanic (of any race),571,59.6,48.2
+NEW MEXICO,White alone or in combination,"1,074",68.7,59.1
+NEW MEXICO,Black alone or in combination,51,Nan,Nan
+NEW MEXICO,Asian alone or in combination,31,Nan,Nan
+NEW YORK,Total,"13,751",66.5,57.2
+NEW YORK,Male,"6,513",64.9,55.2
+NEW YORK,Female,"7,238",67.9,59.1
+NEW YORK,White alone,"10,159",68.9,59.5
+NEW YORK,White non-Hispanic alone,"8,870",70.6,61.1
+NEW YORK,Black alone,"2,321",67.6,58.2
+NEW YORK,Asian alone,"1,059",40.6,34.5
+NEW YORK,Hispanic (of any race),"1,735",60.2,50.6
+NEW YORK,White alone or in combination,"10,241",68.7,59.5
+NEW YORK,Black alone or in combination,"2,387",67.3,57.6
+NEW YORK,Asian alone or in combination,"1,073",41.3,35.4
+NORTH CAROLINA,Total,"6,960",74.6,67.5
+NORTH CAROLINA,Male,"3,243",74.4,67.2
+NORTH CAROLINA,Female,"3,717",74.8,67.8
+NORTH CAROLINA,White alone,"4,997",75.6,68.3
+NORTH CAROLINA,White non-Hispanic alone,"4,679",76.8,69.5
+NORTH CAROLINA,Black alone,"1,582",75.3,69.1
+NORTH CAROLINA,Asian alone,211,71.5,58.5
+NORTH CAROLINA,Hispanic (of any race),350,59.6,53.1
+NORTH CAROLINA,White alone or in combination,"5,072",75.4,68.1
+NORTH CAROLINA,Black alone or in combination,"1,633",74.9,69.0
+NORTH CAROLINA,Asian alone or in combination,217,72.2,57.0
+NORTH DAKOTA,Total,564,75.2,64.2
+NORTH DAKOTA,Male,288,75.0,63.2
+NORTH DAKOTA,Female,276,75.4,65.2
+NORTH DAKOTA,White alone,515,78.2,67.7
+NORTH DAKOTA,White non-Hispanic alone,508,78.4,67.9
+NORTH DAKOTA,Black alone,9,Nan,Nan
+NORTH DAKOTA,Asian alone,3,Nan,Nan
+NORTH DAKOTA,Hispanic (of any race),7,Nan,Nan
+NORTH DAKOTA,White alone or in combination,523,77.7,67.1
+NORTH DAKOTA,Black alone or in combination,10,Nan,Nan
+NORTH DAKOTA,Asian alone or in combination,4,Nan,Nan
+OHIO,Total,"8,499",72.1,63.6
+OHIO,Male,"4,070",69.7,60.7
+OHIO,Female,"4,429",74.3,66.3
+OHIO,White alone,"7,226",72.4,64.2
+OHIO,White non-Hispanic alone,"7,058",72.6,64.4
+OHIO,Black alone,977,73.9,65.2
+OHIO,Asian alone,118,53.1,46.8
+OHIO,Hispanic (of any race),173,68.9,57.8
+OHIO,White alone or in combination,"7,371",72.2,63.7
+OHIO,Black alone or in combination,"1,072",71.8,61.8
+OHIO,Asian alone or in combination,129,52.5,46.8
+OKLAHOMA,Total,"2,746",67.8,56.6
+OKLAHOMA,Male,"1,330",66.9,55.2
+OKLAHOMA,Female,"1,416",68.6,57.9
+OKLAHOMA,White alone,"2,158",68.1,58.5
+OKLAHOMA,White non-Hispanic alone,"2,029",69.8,60.5
+OKLAHOMA,Black alone,178,77.8,57.3
+OKLAHOMA,Asian alone,56,Nan,Nan
+OKLAHOMA,Hispanic (of any race),150,45.2,33.4
+OKLAHOMA,White alone or in combination,"2,250",67.6,57.8
+OKLAHOMA,Black alone or in combination,195,76.2,55.8
+OKLAHOMA,Asian alone or in combination,62,Nan,Nan
+OREGON,Total,"2,929",73.3,66.3
+OREGON,Male,"1,431",73.5,66.5
+OREGON,Female,"1,497",73.2,66.1
+OREGON,White alone,"2,644",74.2,67.7
+OREGON,White non-Hispanic alone,"2,448",75.0,68.8
+OREGON,Black alone,41,Nan,Nan
+OREGON,Asian alone,92,Nan,Nan
+OREGON,Hispanic (of any race),223,63.8,54.9
+OREGON,White alone or in combination,"2,737",74.2,67.6
+OREGON,Black alone or in combination,65,Nan,Nan
+OREGON,Asian alone or in combination,116,66.4,56.7
+PENNSYLVANIA,Total,"9,596",72.0,62.6
+PENNSYLVANIA,Male,"4,589",69.7,60.9
+PENNSYLVANIA,Female,"5,007",74.1,64.2
+PENNSYLVANIA,White alone,"8,203",72.1,62.8
+PENNSYLVANIA,White non-Hispanic alone,"7,884",72.5,63.3
+PENNSYLVANIA,Black alone,"1,007",74.5,63.2
+PENNSYLVANIA,Asian alone,223,61.8,60.3
+PENNSYLVANIA,Hispanic (of any race),443,62.9,51.7
+PENNSYLVANIA,White alone or in combination,"8,292",71.9,62.6
+PENNSYLVANIA,Black alone or in combination,"1,088",74.0,63.6
+PENNSYLVANIA,Asian alone or in combination,238,61.8,60.4
+RHODE ISLAND,Total,766,70.3,60.6
+RHODE ISLAND,Male,369,68.6,57.8
+RHODE ISLAND,Female,397,71.8,63.2
+RHODE ISLAND,White alone,664,70.3,60.7
+RHODE ISLAND,White non-Hispanic alone,588,70.9,61.7
+RHODE ISLAND,Black alone,58,Nan,Nan
+RHODE ISLAND,Asian alone,16,Nan,Nan
+RHODE ISLAND,Hispanic (of any race),98,Nan,Nan
+RHODE ISLAND,White alone or in combination,672,70.3,60.6
+RHODE ISLAND,Black alone or in combination,64,Nan,Nan
+RHODE ISLAND,Asian alone or in combination,18,Nan,Nan
+SOUTH CAROLINA,Total,"3,598",71.6,62.1
+SOUTH CAROLINA,Male,"1,709",67.0,58.0
+SOUTH CAROLINA,Female,"1,889",75.7,65.7
+SOUTH CAROLINA,White alone,"2,516",70.0,60.8
+SOUTH CAROLINA,White non-Hispanic alone,"2,459",70.6,61.5
+SOUTH CAROLINA,Black alone,964,74.6,65.2
+SOUTH CAROLINA,Asian alone,48,Nan,Nan
+SOUTH CAROLINA,Hispanic (of any race),76,Nan,Nan
+SOUTH CAROLINA,White alone or in combination,"2,557",70.2,60.8
+SOUTH CAROLINA,Black alone or in combination,986,74.6,65.0
+SOUTH CAROLINA,Asian alone or in combination,48,Nan,Nan
+SOUTH DAKOTA,Total,612,71.4,59.1
+SOUTH DAKOTA,Male,304,70.3,56.5
+SOUTH DAKOTA,Female,309,72.6,61.7
+SOUTH DAKOTA,White alone,551,73.6,61.6
+SOUTH DAKOTA,White non-Hispanic alone,543,74.0,61.9
+SOUTH DAKOTA,Black alone,8,Nan,Nan
+SOUTH DAKOTA,Asian alone,2,Nan,Nan
+SOUTH DAKOTA,Hispanic (of any race),15,Nan,Nan
+SOUTH DAKOTA,White alone or in combination,557,73.7,61.6
+SOUTH DAKOTA,Black alone or in combination,9,Nan,Nan
+SOUTH DAKOTA,Asian alone or in combination,2,Nan,Nan
+TENNESSEE,Total,"4,872",66.7,54.0
+TENNESSEE,Male,"2,316",65.0,52.6
+TENNESSEE,Female,"2,556",68.3,55.3
+TENNESSEE,White alone,"3,893",67.8,55.9
+TENNESSEE,White non-Hispanic alone,"3,783",68.7,56.8
+TENNESSEE,Black alone,800,64.9,50.3
+TENNESSEE,Asian alone,82,Nan,Nan
+TENNESSEE,Hispanic (of any race),125,31.8,21.7
+TENNESSEE,White alone or in combination,"3,972",67.4,55.4
+TENNESSEE,Black alone or in combination,814,64.5,49.7
+TENNESSEE,Asian alone or in combination,98,Nan,Nan
+TEXAS,Total,"17,378",67.5,55.4
+TEXAS,Male,"8,325",65.8,53.6
+TEXAS,Female,"9,053",69.0,57.0
+TEXAS,White alone,"13,909",66.9,55.4
+TEXAS,White non-Hispanic alone,"9,383",72.7,62.9
+TEXAS,Black alone,"2,358",73.1,57.2
+TEXAS,Asian alone,715,58.5,47.3
+TEXAS,Hispanic (of any race),"4,781",55.5,40.5
+TEXAS,White alone or in combination,"14,101",66.9,55.4
+TEXAS,Black alone or in combination,"2,473",73.3,57.3
+TEXAS,Asian alone or in combination,736,59.7,48.3
+UTAH,Total,"1,969",71.0,62.7
+UTAH,Male,983,71.3,62.4
+UTAH,Female,986,70.8,63.0
+UTAH,White alone,"1,852",72.3,63.8
+UTAH,White non-Hispanic alone,"1,731",73.0,64.4
+UTAH,Black alone,16,Nan,Nan
+UTAH,Asian alone,27,Nan,Nan
+UTAH,Hispanic (of any race),148,63.8,58.1
+UTAH,White alone or in combination,"1,874",71.9,63.5
+UTAH,Black alone or in combination,27,Nan,Nan
+UTAH,Asian alone or in combination,32,Nan,Nan
+VERMONT,Total,488,71.9,62.5
+VERMONT,Male,241,69.0,59.7
+VERMONT,Female,248,74.7,65.2
+VERMONT,White alone,464,73.0,63.2
+VERMONT,White non-Hispanic alone,460,73.0,63.1
+VERMONT,Black alone,4,Nan,Nan
+VERMONT,Asian alone,7,Nan,Nan
+VERMONT,Hispanic (of any race),4,Nan,Nan
+VERMONT,White alone or in combination,476,72.3,62.8
+VERMONT,Black alone or in combination,6,Nan,Nan
+VERMONT,Asian alone or in combination,9,Nan,Nan
+VIRGINIA,Total,"5,829",75.5,68.2
+VIRGINIA,Male,"2,778",72.8,65.0
+VIRGINIA,Female,"3,052",77.9,71.0
+VIRGINIA,White alone,"4,172",77.1,69.3
+VIRGINIA,White non-Hispanic alone,"3,885",77.5,69.6
+VIRGINIA,Black alone,"1,136",71.9,64.9
+VIRGINIA,Asian alone,300,73.0,69.9
+VIRGINIA,Hispanic (of any race),342,70.1,64.2
+VIRGINIA,White alone or in combination,"4,285",77.0,69.2
+VIRGINIA,Black alone or in combination,"1,203",70.8,63.9
+VIRGINIA,Asian alone or in combination,351,74.3,71.7
+WASHINGTON,Total,"5,104",76.5,66.3
+WASHINGTON,Male,"2,497",74.2,61.1
+WASHINGTON,Female,"2,607",78.8,71.2
+WASHINGTON,White alone,"4,353",78.2,69.5
+WASHINGTON,White non-Hispanic alone,"3,965",79.8,71.7
+WASHINGTON,Black alone,184,63.2,42.6
+WASHINGTON,Asian alone,239,79.6,69.0
+WASHINGTON,Hispanic (of any race),465,62.9,47.2
+WASHINGTON,White alone or in combination,"4,500",77.8,68.7
+WASHINGTON,Black alone or in combination,222,61.9,38.3
+WASHINGTON,Asian alone or in combination,283,79.4,66.7
+WEST VIRGINIA,Total,"1,425",64.1,50.8
+WEST VIRGINIA,Male,688,62.1,48.7
+WEST VIRGINIA,Female,736,65.9,52.7
+WEST VIRGINIA,White alone,"1,347",64.2,50.7
+WEST VIRGINIA,White non-Hispanic alone,"1,339",64.2,50.7
+WEST VIRGINIA,Black alone,47,Nan,Nan
+WEST VIRGINIA,Asian alone,7,Nan,Nan
+WEST VIRGINIA,Hispanic (of any race),9,Nan,Nan
+WEST VIRGINIA,White alone or in combination,"1,368",64.3,50.8
+WEST VIRGINIA,Black alone or in combination,55,Nan,Nan
+WEST VIRGINIA,Asian alone or in combination,11,Nan,Nan
+WISCONSIN,Total,"4,354",76.3,70.5
+WISCONSIN,Male,"2,132",74.3,68.8
+WISCONSIN,Female,"2,222",78.3,72.0
+WISCONSIN,White alone,"3,998",78.3,72.5
+WISCONSIN,White non-Hispanic alone,"3,776",79.7,74.0
+WISCONSIN,Black alone,197,51.2,46.8
+WISCONSIN,Asian alone,95,Nan,Nan
+WISCONSIN,Hispanic (of any race),260,52.1,42.8
+WISCONSIN,White alone or in combination,"4,049",78.2,72.2
+WISCONSIN,Black alone or in combination,233,52.2,44.8
+WISCONSIN,Asian alone or in combination,106,58.3,53.3
+WYOMING,Total,427,71.1,64.8
+WYOMING,Male,218,70.6,63.7
+WYOMING,Female,209,71.7,66.0
+WYOMING,White alone,399,71.2,65.3
+WYOMING,White non-Hispanic alone,373,72.3,66.8
+WYOMING,Black alone,5,Nan,Nan
+WYOMING,Asian alone,4,Nan,Nan
+WYOMING,Hispanic (of any race),26,Nan,Nan
+WYOMING,White alone or in combination,404,71.6,65.5
+WYOMING,Black alone or in combination,6,Nan,Nan
+WYOMING,Asian alone or in combination,4,Nan,Nan
