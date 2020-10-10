@@ -7,7 +7,7 @@
 drop table "Voting_Data_by_Sex_Race_for_States";
 CREATE TABLE "Voting_Data_by_Sex_Race_for_States" (
     "state" VARCHAR   NOT NULL,
-    "race" VARCHAR   NOT NULL,
+    "sex_race" VARCHAR   NOT NULL,
     "total_citizen_population" VARCHAR   NULL,
     "percent_registered_citizen" VARCHAR   NULL,
     "percent_voted_citizen" VARCHAR   NULL
@@ -35,7 +35,6 @@ CREATE TABLE "State_Data" (
     "abbr" VARCHAR   NOT NULL,
     "latitude" VARCHAR   NOT NULL,
     "longitude" VARCHAR   NOT NULL,
-    "city" VARCHAR   NOT NULL
 );
 
 --view table
