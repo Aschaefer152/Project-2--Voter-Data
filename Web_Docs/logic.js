@@ -25,9 +25,9 @@
 
   // Initialize all of the LayerGroups we'll be using
 let layers = {
-  Age: lightmap,
-  Race: darkmap,
-  Gender: grayscale
+  Light: lightmap,
+  Dark: darkmap,
+  Gray: grayscale
 };
 
 //   // Create the map object with options
@@ -35,9 +35,9 @@ let layers = {
     center: [39.8283, -98.5795],
     zoom: 5.5,
     layers: [
-      layers.Age,
-      layers.Race,
-      layers.Gender
+      layers.Light,
+      layers.Dark,
+      layers.Gray
     ]});
 
     let overlays = {
@@ -69,8 +69,8 @@ L.control.layers(layers).addTo(myMap);
     shadowSize: [41, 41]
   });
 
-  var blackIcon = new L.Icon({
-    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png',
+  var blueIcon = new L.Icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
     shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
     iconSize: [25, 41],
     iconAnchor: [12, 41],
@@ -97,7 +97,7 @@ function createMarkers(data){
   } else if (data['Reg']== 'Early Voting'){
     iconColor = redIcon
   } else {
-    iconColor = blackIcon
+    iconColor = blueIcon
   };
 
   
@@ -107,7 +107,7 @@ function createMarkers(data){
   };
 
 
-let table=`<table><thead><strong>${state}</strong><tr><td><strong>Age Groups</strong></td><td><strong>Citizens Registered (%)</strong></td><td><strong>Citizens Voted (%)</strong></td><td><strong>Citizen Population (000's)</strong></td></tr></thead>
+let table=`<table><thead><strong>${state}</strong><tr><th><strong>Age Groups</strong></th><th><strong>Citizens Registered (%)</strong></th><th><strong>Citizens Voted (%)</strong></th><th><strong>Citizen Population (000's)</strong></th></tr></thead>
 <tr><td><strong>${ageList[0]}</strong></td><td>${data['Age']['18 to 24']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['18 to 24']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['18 to 24']['Total Citizen Population'][0]}</td></tr>
 <tr><td><strong>${ageList[1]}</strong></td><td>${data['Age']['25 to 34']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['25 to 34']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['25 to 34']['Total Citizen Population'][0]}</td></tr>
 <tr><td><strong>${ageList[2]}</strong></td><td>${data['Age']['35 to 44']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['35 to 44']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['35 to 44']['Total Citizen Population'][0]}</td></tr>
@@ -126,3 +126,5 @@ newmarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(table).addTo(myMap);
 d3.json("../Data/data.json").then((importedData) => {
   importedData.forEach(createMarkers)
 });
+
+
