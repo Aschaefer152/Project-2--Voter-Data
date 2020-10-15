@@ -13,3 +13,13 @@ html {
 h1 {
   text-align: center;
 }
+
+
+table, td {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+  text-align: center;
+}
