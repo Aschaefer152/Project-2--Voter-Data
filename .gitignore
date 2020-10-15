@@ -133,3 +133,6 @@ dmypy.json
 
 #checkpoints for Jupyter Notebook
 .ipynb_checkpoints
+
+#config file
+.config.js
