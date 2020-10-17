@@ -65,23 +65,29 @@ d3.json("../Data/data.json").then((importedData) => {
 
   function createMarkers(data){
 
+    console.log(data)
+
     // Pull the state, lat, long, election registration "law", and age group dictionary property off of response.data
     let state = data['State'];
     let lat = data['Lat'];
     let lng = data['Lng'];
     let reg = data['Reg'];
     let ages = data['Age'];
+
     
     //create an empty age list
     let ageList=[]
+    let raceList =[]
+    let genderList =[]
   
     for (ageGroup in ages){
       // push the age group to a list to be used as a header in the popup table
       ageList.push(ageGroup)
     };
+
   
     // creating the table
-    let table=`<table><thead><strong>${state}</strong><tr><th><strong>Age Groups</strong></th><th><strong>Citizens Registered (%)</strong></th><th><strong>Citizens Voted (%)</strong></th><th><strong>Citizen Population (000's)</strong></th></tr></thead>
+    let agetable=`<table><thead><strong>${state}</strong><tr><th><strong>Age Groups</strong></th><th><strong>Citizens Registered (%)</strong></th><th><strong>Citizens Voted (%)</strong></th><th><strong>Citizen Population (000's)</strong></th></tr></thead>
     <tr><td><strong>${ageList[0]}</strong></td><td>${data['Age']['18 to 24']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['18 to 24']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['18 to 24']['Total Citizen Population'][0]}</td></tr>
     <tr><td><strong>${ageList[1]}</strong></td><td>${data['Age']['25 to 34']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['25 to 34']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['25 to 34']['Total Citizen Population'][0]}</td></tr>
     <tr><td><strong>${ageList[2]}</strong></td><td>${data['Age']['35 to 44']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['35 to 44']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['35 to 44']['Total Citizen Population'][0]}</td></tr>
@@ -90,6 +96,7 @@ d3.json("../Data/data.json").then((importedData) => {
     <tr><td><strong>${ageList[5]}</strong></td><td>${data['Age']['Total']['Percent Citizens Registered'][0]}%</td><td>${data['Age']['Total']['Percent Citizens Voted'][0]}%</td><td>${data['Age']['Total']['Total Citizen Population'][0]}</td></tr>
     
     </table>`
+
   
     // create a blank value to use and assign the correct state to the right overlay
     let registrationCode;
@@ -98,20 +105,20 @@ d3.json("../Data/data.json").then((importedData) => {
     // icon color assignments 
     if (reg== 'Election Day'){
       let iconColor = greenIcon
-      let newMarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(table) 
+      let newMarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(agetable) 
       registrationCode="Election_Day"
       newMarker.addTo(overlays[registrationCode])
   
     } else if (data['Reg']== 'Early Voting'){
       let iconColor = redIcon
-      let newMarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(table)
+      let newMarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(agetable)
       registrationCode="Early_Voting"
       newMarker.addTo(overlays[registrationCode])
       
 
     } else {
       let iconColor = blueIcon
-      let newMarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(table)
+      let newMarker=L.marker([lat,lng],{icon:iconColor}).bindPopup(agetable)
       registrationCode="No_Registration"
       newMarker.addTo(overlays[registrationCode])
 
@@ -139,6 +146,18 @@ let myMap = L.map("map", {
 
 // add the basemaps and the overlays to the map
 L.control.layers(baseMaps,overlays).addTo(myMap);
+
+// $('.menu-ui a').on('click', function() {
+//   // For each filter link, get the 'data-filter' attribute value.
+//   var filter = $(this).data('filter');
+//   $(this).addClass('active').siblings().removeClass('active');
+//   markers.setFilter(function(f) {
+//       // If the data-filter attribute is set to "all", return
+//       // all (true). Otherwise, filter on markers that have
+//       // a value set to true based on the filter name.
+//       return (filter === 'all') ? true : f.properties[filter] === true;
+//   });
+//   return false;
 
 
 

@@ -56,7 +56,7 @@ for record in cit_pop:
 #create the list of the categories for each attribute
 age_ranges=['18 to 24','25 to 34', '35 to 44', '45 to 64', '65+','Total']
 genders=['Male','Female','Total']
-races=['White alone','White non-Hispanice alone','Black alone','Asian alone']
+races=['White alone','White non-Hispanics alone','Black alone','Asian alone']
 
 #list where all of the dictionaries will go    
 names=[]
